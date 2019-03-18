@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
-You can use the [editor on GitHub](https://github.com/mdreed525/mdreed525.ePortfolio.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<head>
+<title>Michelle Reed's Assignment Page </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
 
-### Markdown
+<body style="background-color:mistyrose;"> 
+<h1 style="background-color:orchid;">Welcome to Michelle Reed's Assignment Page</h1>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!--I used a table to align the photo and the paragraph. -->
+<table border="0">
+<tr>
+<td width="100" height="200">
+<img src="Photo_20180109_145025.jpg" alt="Michelle Reed headshot" width="250" height="250" />
+</td>
 
-```markdown
-Syntax highlighted code block
+<td><p>Hi. My name is <b>Michelle Reed</b>.  I work at Cuyahoga Community College (Tri-C), home of the Tri-Ceratops! I am the administrator for Mediasite, our enterprise video solution. You can check out my intro video I share with my faculty <a href="https://mediasite.tri-c.edu/Mediasite/Play/c1f0393a6def4b44b3b185290ed5d5781d?playFrom=44352&amp;autoStart=false">here.</a>  Before accepting my job at Tri-C, I worked at The University of Akron (UA) as a Distance Learning Coordinator for 16 years!</p>  
+<p>I received my undergraduate degree from UA in Mass Media with a focus on TV production.  I am currently pursuing my Masters in Instructional Technology, also from UA.</p>
+<p>I am excited to be creating a web page!!! This has always been an aspiration of mine!</p>
+<p><i>My favorite quote, "I want to be like a SUNFLOWER so even on the darkest days I will stand tall &amp; find sunlight." Author unknown</i>.</p>
+</td>
+</tr>
+</table>
 
-# Header 1
-## Header 2
-### Header 3
+<h2 style="background-color:plum;">Assignment List</h2>
+<!--I am using this table to list my other mini project links. -->
+<ul type="disc">
+<li><a href="mp1.html" target="_blank">Mini Project 1</a></li>
+<li><a href="mp2.html" target="_blank">Mini Project 2</a></li>
+<li><a href="mp3.html" target="_blank">Mini Project 3</a></li>
+<li><a href="mp4.html" target="_blank">Mini Project 4</a></li>
+<li><a href="mp5.html" target="_blank">Mini Project 5</a></li>
+<li><a href="mp6.html" target="_blank">Mini Project 6</a></li>
+<li><a href="Michelle Reed Design Document for Final Project.pdf" target="_blank">Design Document</a></li>
+<li><a href="final.html" target="_blank">Final Website</a></li>
+</ul>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<a href="http;//www.uakron.edu/">University of Akron Home Page</a>
+<br/>
+<a href="mdaley@zips.uakron.edu">Contact Me</a> 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mdreed525/mdreed525.ePortfolio.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  <p>
+    <a href="http://validator.w3.org/check?uri=referer"><img
+      src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a>
+  </p>
+<!--the validator was run on 3/15/2019 - Code last updated 3/15/2019-->
+</body>
+</html>
